@@ -10,7 +10,7 @@ Project No: 4 <br>
 Year: 2017
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/qAH3MHBDLWk/0.jpg)](http://www.youtube.com/watch?v=qAH3MHBDLWk "Snake2 || iGraphics")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/qAH3MHBDLWk/0.jpg)](http://www.youtube.com/watch?v=qAH3MHBDLWk "Master Archer || iGraphics")
 
 ## Screen shot
 ### Homescreen
