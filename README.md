@@ -1,5 +1,5 @@
 # Master_Archer
-This game is made for my university project. I have no idea how to deals with animation and handle object motion. But after trying I have got this. And this is best project chosen by my lecturer. And also he gave me 10 marks extra. I got total 50/40 xD. 
+This game is made for my university project. This project was selected by my lecturer. That time I have no idea how to deals with animation and handle object motion. But after trying I have got this. And this is best project chosen by my lecturer. And also he gave me 10 marks extra. I got total 50/40 XD.
 
 
 ## Project description
