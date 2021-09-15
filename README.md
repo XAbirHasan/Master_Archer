@@ -5,7 +5,7 @@ This game is made for my university project. This project was selected by my lec
 ## Project description
 Name: Master Archer <br>
 Programming Language: C & C++ <br>
-GUI: iGraphics
+GUI: iGraphics <br>
 Project No: 4 <br>
 Year: 2017
 
